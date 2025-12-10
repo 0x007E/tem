@@ -2663,7 +2663,7 @@
 		(at 255.27 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "027596c6-8b87-49bc-a007-f07eeaa5e407")
@@ -2873,7 +2873,7 @@
 		(at 63.5 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2915,6 +2915,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 63.5 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 63.5 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "100128"
 			(at 63.5 165.1 0)
 			(effects
 				(font
@@ -3091,7 +3109,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "n.B."
+		(property "Value" "3k3"
 			(at 116.84 95.2499 0)
 			(effects
 				(font
@@ -3119,6 +3137,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 114.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 114.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102959"
 			(at 114.3 93.98 0)
 			(effects
 				(font
@@ -3188,6 +3224,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 142.24 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 142.24 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102967"
 			(at 142.24 96.52 0)
 			(effects
 				(font
@@ -3596,6 +3650,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 146.05 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102967"
+			(at 146.05 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08d78be2-e469-43a3-af23-8dad7bb286b7")
 		)
@@ -3759,7 +3831,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "n.B."
+		(property "Value" "3k3"
 			(at 107.95 95.2499 0)
 			(effects
 				(font
@@ -3787,6 +3859,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 110.49 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 110.49 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102959"
 			(at 110.49 93.98 0)
 			(effects
 				(font
@@ -3929,6 +4019,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 88.9 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102967"
+			(at 88.9 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "635e330c-4a63-4128-a0a3-49c3c844ce13")
 		)
@@ -4014,7 +4122,7 @@
 		(at 50.8 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4056,6 +4164,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 50.8 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 50.8 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "100140"
 			(at 50.8 165.1 0)
 			(effects
 				(font
@@ -4126,6 +4252,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 198.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 198.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102967"
 			(at 198.12 96.52 0)
 			(effects
 				(font
@@ -4466,6 +4610,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 194.31 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "102967"
+			(at 194.31 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "03f48352-4d3f-40b8-9968-8f21af6036fe")
 		)
@@ -4708,7 +4870,7 @@
 		(at 242.57 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b3a07d2c-2838-41be-a665-2f6f2456b716")
@@ -4918,7 +5080,7 @@
 		(at 217.17 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d0f144de-0523-4785-bf1f-9516688719ca")
@@ -5177,6 +5339,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 179.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "103616"
+			(at 179.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "4e914240-865e-4d22-8843-d4828b60def9")
 		)
@@ -5215,7 +5395,7 @@
 		(at 229.87 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e3d7b17f-8921-495f-8833-af930da40423")
@@ -5344,6 +5524,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 127 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "103616"
+			(at 127 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "69764474-b907-4600-9064-5af02c357d4f")
 		)
@@ -5382,7 +5580,7 @@
 		(at 76.2 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5424,6 +5622,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 76.2 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 76.2 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "100128"
 			(at 76.2 165.1 0)
 			(effects
 				(font
