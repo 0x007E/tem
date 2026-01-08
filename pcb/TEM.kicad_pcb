@@ -671,6 +671,32 @@
 				)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58ab3cea-6ea4-4a33-8781-22f46180c4c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "VendorId" "101523"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c8b9137-bcd9-4292-bc0e-a078dc0b8c5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fcf29b0f-eb1c-4900-9084-77641078f7c4")
 		(sheetname "/")

@@ -5983,6 +5983,24 @@
 				(hide yes)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 33.02 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "101523"
+			(at 33.02 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "230267f8-f8b0-4160-958f-cccd82e1ad71")
 		)
