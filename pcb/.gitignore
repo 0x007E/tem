@@ -29,6 +29,7 @@ fp-info-cache
 
 *.pdf
 *.zip
+*.json
 
 *backups/
 *[Gg]erber_*/
