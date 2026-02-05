@@ -1,6 +1,6 @@
 [![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/tem) ![Build](https://github.com/0x007e/tem/actions/workflows/release.yml/badge.svg) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-# `TEM` - Waveform Generator (Signalgenerator)
+# `TEM` - TWI EEPROM Module
 
 The `TEM` is a board with an [AT24CM0X](#additional-information) `EEPROM` or any other `EEPROM` that fits the pin setting of the board. The board itself is driven with a voltage from `3V3`-`5V`. The `EEPROM` can be protected from being written with the onboard switch `SW1`.
 
