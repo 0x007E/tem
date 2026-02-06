@@ -7179,7 +7179,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7,3"
+		(gr_text "7.3"
 			(at 152.35 78.65 90)
 			(layer "Dwgs.User")
 			(uuid "6b1300b1-fea1-4453-b4b8-60de15073901")
@@ -7255,7 +7255,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "32,9"
+		(gr_text "32.9"
 			(at 131.45 91.35 0)
 			(layer "Dwgs.User")
 			(uuid "c2f2a310-27a5-46a3-84ff-1af4c4815987")
@@ -7369,7 +7369,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7,5"
+		(gr_text "7.5"
 			(at 104.85 78.75 90)
 			(layer "User.1")
 			(uuid "68cd369c-f72f-408e-8d4e-e49a41fbd04c")
@@ -7407,7 +7407,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7,75"
+		(gr_text "7.75"
 			(at 102.35 78.875 90)
 			(layer "User.1")
 			(uuid "84188512-6051-46b9-8012-258424a485fe")
