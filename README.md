@@ -37,6 +37,18 @@ The circuit board is populated on both sides (Top, Bottom). The best way for sol
 
 ![Bottom Layer](https://github.com/0x007E/tem/releases/latest/download/bottom.kicad.png)
 
+## Mechanical
+
+The housing has a tolerance of `0.2mm` on each side of the case. So the pcb should fit perfectly in the housing. The tolerance can be modified with `FreeCAD` in the `Parameter` Spreadsheet.
+
+### Assembled
+
+![Assembled](./images/assembled.png)
+
+### Exploded
+
+![Exploded](./images/explosion.png)
+
 # Additional Information
 
 | Type       | Link               | Description              |
