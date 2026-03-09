@@ -27,7 +27,7 @@ The pcb is created with `KiCAD`, the housing with `FreeCAD`. All files are built
 
 ## PCB
 
-The circuit board is populated on both sides (Top, Bottom). The best way for soldering the `SMD` components is within a vapor phase soldering system and for the `THT` components with a standard soldering system. After placing and soldering the top parts, the board has to be cut off in the middle (white edge).
+The circuit board is populated on both sides (Top, Bottom). The best way for soldering the `SMD` components is within a vapor phase soldering system and for the `THT` components with a standard soldering system.
 
 ### Top Layer
 
