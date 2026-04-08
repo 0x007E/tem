@@ -3335,7 +3335,7 @@
 		(at 203.2 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "21c469b8-57cd-4bc6-ab31-0c3b3f85b0e5")
@@ -3378,6 +3378,24 @@
 		)
 		(property "Description" "Mounting Hole with connection"
 			(at 203.2 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "HTL"
+			(at 203.2 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VendorId" "100968, 101210"
+			(at 203.2 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)

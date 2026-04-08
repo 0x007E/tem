@@ -1837,11 +1837,37 @@
 				)
 			)
 		)
+		(property "Vendor" "HTL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "575cc14f-4ec1-4751-bdb7-11d8a9209e4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "VendorId" "100968, 101210"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "125efa13-b6c5-4044-9368-fb7a8b524b83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/21c469b8-57cd-4bc6-ab31-0c3b3f85b0e5")
 		(sheetname "/")
 		(sheetfile "TEM.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
 			(end 2.35 0)
