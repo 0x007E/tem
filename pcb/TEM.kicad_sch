@@ -4782,7 +4782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "DigiKey"
+		(property "Vendor" "HTL"
 			(at 95.25 104.14 0)
 			(effects
 				(font
@@ -4791,7 +4791,7 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "2223-MSS-102545-28A-D-ND"
+		(property "VendorId" "103663"
 			(at 95.25 104.14 0)
 			(effects
 				(font

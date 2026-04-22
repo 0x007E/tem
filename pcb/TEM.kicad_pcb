@@ -2546,7 +2546,7 @@
 				)
 			)
 		)
-		(property "Vendor" "DigiKey"
+		(property "Vendor" "HTL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2559,7 +2559,7 @@
 				)
 			)
 		)
-		(property "VendorId" "2223-MSS-102545-28A-D-ND"
+		(property "VendorId" "103663"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
